@@ -7,11 +7,11 @@
   "supportFile": "cypress/support",
   "videoCompression": false,
   "env": {
-    "WebURL": "https://frontend-prod-chess24.vercel.app",
+    "WebURL": "",
     "cypress-react-selector": {
       "root": "#__next"
     },
-    "userName": "test_account",
-    "userPassword": "chess24_test"
+    "userName": "",
+    "userPassword": ""
   }
 }
