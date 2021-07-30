@@ -1,0 +1,16 @@
+{
+  "name": "cypress-yarn-gitlab-ci-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cypress-react-selector": "^2.3.6"
+  },
+  "devDependencies": {
+    "cypress": "7.6.0",
+    "eslint-plugin-cypress": "^2.11.2"
+  }
+}

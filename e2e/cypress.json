@@ -1,0 +1,17 @@
+{
+  "viewportWidth": 1600,
+  "viewportHeight": 1024,
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins",
+  "supportFile": "cypress/support",
+  "videoCompression": false,
+  "env": {
+    "WebURL": "https://frontend-prod-chess24.vercel.app",
+    "cypress-react-selector": {
+      "root": "#__next"
+    },
+    "userName": "test_account",
+    "userPassword": "chess24_test"
+  }
+}
